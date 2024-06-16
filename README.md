@@ -18,8 +18,8 @@ This repository contains a Python script to fetch and display the current weathe
 1. Clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/weather-api-script.git
-cd weather-api-script
+git clone https://github.com/Spandana-M-Patil/weather-prediction.git
+cd weather-prediction
 ```
 2. Install the required Python library:
 ```bash
